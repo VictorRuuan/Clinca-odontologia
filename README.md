@@ -19,3 +19,10 @@ Este projeto foi desenvolvido com fins educacionais e para compor portfólio, si
 ---
 
 ## 🛠
+
+- **Python**
+- **Django**
+- **HTML5**
+- **CSS3**
+- **SQLite** (ambiente de desenvolvimento)
+- **Git & GitHub**
